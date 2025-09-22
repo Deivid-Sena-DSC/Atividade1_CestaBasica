@@ -1,1 +1,27 @@
-Esse é um programa simples de analise de variação de preços de produtos onde é possivvel cadastra os produtos com preços mês anterior e atual, o programa íra calcular a variação percentual dos preços armazenar e retornar o produto os preços a variação percentual e o status informando aumento, aumento abusivo acima de 10%, queda de preço ou se o preço permanece estalvel basta baixar o arquivo 
+Descrição do Programa
+
+O Atividade1_CestaBasica.exe é um aplicativo desenvolvido para realizar a análise de variação de preços de produtos em diferentes períodos.
+
+Funcionalidades
+
+Cadastro de produtos com preços referentes ao mês anterior e ao mês atual.
+
+Cálculo automático da variação percentual entre os dois períodos.
+
+Armazenamento dos resultados para consulta.
+
+Classificação do status de cada produto de acordo com a variação encontrada:
+
+Aumento
+
+Aumento abusivo (variação positiva superior a 10%)
+
+Queda de preço
+
+Preço estável
+
+Requisitos de Uso
+
+Download do arquivo executável: Atividade1_CestaBasica.exe
+
+Execução direta, sem necessidade de instalação adicional.
